@@ -1,0 +1,11 @@
+deb http://mirror.kakao.com/ubuntu/ bionic main
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates main
+
+deb http://mirror.kakao.com/ubuntu/ bionic universe
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates universe
+
+deb http://mirror.kakao.com/ubuntu/ bionic multiverse
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates multiverse
+
+deb http://mirror.kakao.com/ubuntu/ bionic restricted
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates restricted
